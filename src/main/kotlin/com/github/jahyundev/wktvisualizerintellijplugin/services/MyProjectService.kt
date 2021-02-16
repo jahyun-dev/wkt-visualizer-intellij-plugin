@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.jahyundev.wktvisualizerintellijplugin.services
 
+import com.github.jahyundev.wktvisualizerintellijplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
